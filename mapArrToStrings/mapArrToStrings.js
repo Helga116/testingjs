@@ -4,6 +4,4 @@ function mapArrToStrings(arr) {
         .map(String)
 }
 
-module.exports = {
-    mapArrToStrings
-}
+module.exports = mapArrToStrings
